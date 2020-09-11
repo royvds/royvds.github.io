@@ -10,9 +10,6 @@ Roy van der Steen
 
 I'm a 20 year old software engineer student, currently following a minor English. I work part-time as a store lead for Action. I direct and instruct other Action employees during the evening shifts from 17:00 till 21:00. I have a keen interest in digital media (e.g. movies, series, anime). Ever get bored? I know a movie for that. Quarantine beating you down? There's a serie for that. Gaming? Not that much; story-driven games only. Hotel? Trivago.
 
-tl;dr
-Roy van der Steen, 20, software engineer student, Action store lead, film enthousiast & casual gamer.
-
 
 ### Blog details?
 
