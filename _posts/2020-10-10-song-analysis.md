@@ -4,7 +4,7 @@ title: "Song Analysis"
 author: "Roy van der Steen"
 categories: media
 tags: [music,education]
-image: dio-fanart.jpg
+image: kowalski-analysis.jpg
 ---
 
 ## Caught in the Middle (Dio)
