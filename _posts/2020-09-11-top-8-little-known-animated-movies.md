@@ -7,7 +7,7 @@ tags: [film,recommendation]
 image: song-of-the-sea.jpg
 ---
 
-For all the animation fans out there, I’ve compromised a list of 8 animated films who went under the radar. We all know the Hollywood blockbusters done by Disney, Pixar, DreamWorks and Sony. Great cinema hits such as Shrek, Cars, Frozen, Moana, etc. But for those out there who have seen it all, you’re in luck! This list covers only western animated movies, Japanese animation (also known as anime) will not be talked about this time.
+For all the animation fans out there, I’ve comprised a list of 8 animated films which went under the radar. We all know the Hollywood blockbusters done by Disney, Pixar, DreamWorks and Sony. Great cinema hits such as Shrek, Cars, Frozen, Moana, etc. But for those out there who have seen it all, you’re in luck! This list covers only western animated movies, Japanese animation (also known as anime) will not be talked about this time.
 
 <br />
 
