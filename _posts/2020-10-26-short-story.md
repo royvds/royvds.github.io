@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Story Analysis"
+title: "Short Story 'The Mysterious Mountain'"
 author: "Roy van der Steen"
 categories: media
 tags: [story,education]
