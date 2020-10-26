@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Story Analysis"
+author: "Roy van der Steen"
+categories: media
+tags: [story,education]
+image: forest.jpg
+---
+
+Here is my attempt at a short story.
+Writing a story without any initial inspiration isn't as easy as you'd think.
+
+### The Mysterious Mountain
+
+There I stood, at the base of the Rooster mountain, named after its rooster-like shape. It doesn't have legs though, but that speaks for itself. I am ready, I told myself as I started following a shallow path that starts at the eastern side of the mountain. The sun started to rise behind me, I consciously had chosen to start at the dawn of day, for there was a long journey ahead. The summit wasn't high enough for me to require oxygen tanks, thankfully. But it would be difficult nonetheless. The start of the trail wasn’t any difficult to follow, my mind started to wander off. Life has been hectic lately, that is exactly the reason why I chose to go on this adventure. Work has been killing me, with the days getting hotter and hotter, everyone wants solar panels on their roof. It is my responsibility to overlook all the projects done on the northern side of the country. I petty my colleague of the south, it is supposed to be even worse there. Well, at least the winters are still somewhat normal. I miss the snow though, the crunching sound as you walk outside, gathering snow for a snowman, or piling up snowballs for a snowball-fight. Perhaps, on the top of the mountain, I’ll build myself a snowman. “I should’ve brought a carrot and a hat" I scoffed to myself. I wonder how long it would stand, if I did. The mountain peak is covered in snow all year round, I suppose it will slowly transform into a small hill. Every time it snows, a thin layer of snow higher.
+
+I looked forward, the path slowly bending to the right as it goes up the mountain like a helix. The temperature started to drop, though the sun shined bright upon my neck. It gave me shivers. The mud ground was covered with leaves, where did they come from? I passed the last tree a few hundred metres ago. It doesn’t matter. The path is getting steeper, I pass by a cave and decide to take a rest there. As I step into the cave, I just realize how strong the wind has become. Sheltered from it, I suddenly feel a lot warmer. A tiny amount of light comes from the end of the cave. As I venture deeper into the depths of the mountain, I come across glowing mushrooms and crystals. It was the most beautiful thing I have ever seen; I took out my phone to take a few pictures but they looked nowhere near as good as I hoped. My curiosity dragged me further into the cave, it slowly started to incline. Perhaps this cave is a shortcut to the top? I moved on; along the way I saw a small creature on top of a glowing mushroom. It waved at me, and then suddenly vanished into thin air. 
+
+What was that? Am I starting to hallucinate? It looked friendly, but what was it? I move on, there is a bright white light at the end of the cave. The snow compacts under my feet as I move out of the cave. I see nothing, a thick fog hinders my vision. Two metres ahead of me is all that I am able to see. A path continues upwards on my left. As I get closer and closer to the summit, the fog thins out. All the way on the top, I look around. I can see nothing but snowy, mountainous terrain. This isn’t the mountain I climbed, where is my hometown? This doesn’t make any sense. I quickly make my snowman and flee back into the cave. When I eventually get back home and look up at the mountain peak with a telescope, there is no snowman. No traces of my presence. The only thing left of this day is a memory. And a few pictures that accommodate the memory. I look at the pictures that I made, but they’ve changed. All it shows is a dark empty cave.  I guess it was just my imagination running wild in the end after all.
