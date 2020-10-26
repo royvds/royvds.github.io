@@ -29,7 +29,7 @@ To those who have already searched the depths of the Internet, this one might be
 
 ## The Breadwinner (2017)
 
-<img src="https://www.universitytimes.ie/wp-content/uploads/2018/10/awards-issue-breadwinner-01.jpg" width="350" />
+<img src="http://www.universitytimes.ie/wp-content/uploads/2018/10/awards-issue-breadwinner-01.jpg" width="350" />
 
 The Breadwinner is a drama about 11-year-old Parvana, who lives with her family in Afghanistan under the rule of the Taliban. When her father is unjustly arrested by the Taliban, she has to take care of her families financial needs in a country where women aren't even allowed outside without a man by their side.
 
